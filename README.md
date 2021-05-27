@@ -12,9 +12,9 @@
 
 5. Label: A label that marks whether the news article is real or fake,
            </br>
-           1: Fake news,
+           <t> 1: Fake news,</t>
            </br>
-           0: real News
+            <t> 0: real News</t>
 
 <h6>Dataset Download Link:</h6>
            <a>https://www.kaggle.com/c/fake-news/data?select=train.csv</a>
