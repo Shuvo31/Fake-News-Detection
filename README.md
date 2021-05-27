@@ -10,7 +10,11 @@
 
 4. Text: The text of the article; could be incomplete
 
-5. Label: A label that marks whether the news article is real or fake,1: Fake news, 0: real News
+5. Label: A label that marks whether the news article is real or fake,
+           </br>
+           1: Fake news,
+           </br>
+           0: real News
 
 <h6>Dataset Download Link:</h6>
            <a>https://www.kaggle.com/c/fake-news/data?select=train.csv</a>
